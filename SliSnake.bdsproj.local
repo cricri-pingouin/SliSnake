@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/07 22:35:32.641.bdsproj,D:\Delphi projects\SliSnake\SliSame.bdsproj=D:\Delphi projects\SliSnake\SliSnake.bdsproj</Transaction>
+    <Transaction>2016/06/07 22:35:57.164.pas,D:\Delphi projects\SliSnake\SAME.pas=D:\Delphi projects\SliSnake\SNAKE.pas</Transaction>
+    <Transaction>2016/06/07 22:35:57.164.dfm,D:\Delphi projects\SliSnake\SAME.dfm=D:\Delphi projects\SliSnake\SNAKE.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
