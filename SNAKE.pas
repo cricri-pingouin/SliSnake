@@ -381,7 +381,7 @@ begin
   myINI := TINIFile.Create(ExtractFilePath(Application.EXEName) + 'SliSnake.ini');
   BoardSizeX := myINI.ReadInteger('Settings', 'BoardSizeX', 25);
   BoardSizeY := myINI.ReadInteger('Settings', 'BoardSizeY', 15);
-  GameSpeed := myINI.ReadInteger('Settings', 'Speed', 10);
+  GameSpeed := myINI.ReadInteger('Settings', 'Speed', 7);
   //Read high scores from INI file
   for i := 1 to 10 do
   begin
